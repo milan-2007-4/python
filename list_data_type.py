@@ -8,3 +8,6 @@ a.append('mengo')
 for i in a:
     print(i)
 x=a.count(2)
+a.remove(4)
+print(a)
+
