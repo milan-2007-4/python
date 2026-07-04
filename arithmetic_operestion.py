@@ -1,0 +1,9 @@
+a=10
+b=2
+print("sum=",a+b)#addition
+print("sub=",a-b)#substrection
+print("mul=",a*b)#multipliction
+print("divi=",a/b)#division
+print("moduler=",a%b)#moduler
+print("Exponent=",a**b)#power of
+print("integer divisen=",a//b)#onliy int velue show
